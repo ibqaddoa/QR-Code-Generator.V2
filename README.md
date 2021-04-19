@@ -6,8 +6,8 @@ The App should be able to take in three fundamental information of a person. For
 
 NEXT STEPS:
 
--Provide auto layout for other iOS devices
--Make the form more user friendly
--Easy keyboard managment for the user
-
+-Provide auto layout for other iOS devices      
+-Make the form more user friendly     
+-Easy keyboard managment for the user     
+      
 -Make it possible to save the QR-Code. Therefore the information doesn't have to be typed in everytime you open the app. 
